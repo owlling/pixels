@@ -1,0 +1,12 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="">
+    <title>loading</title>
+    <g id="é¡µé¢-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ç»æ¿" transform="translate(-542.000000, -695.000000)">
+            <g id="loading" transform="translate(542.000000, 695.000000)">
+                <path id="æ¤­åå½¢" fill-opacity="0.01" fill="#000000" fill-rule="nonzero" d="M0,24A24,24 0,1,1 48,24A24,24 0,1,1 0,24" class="IyMnCDtp_0"></path>
+                <path id="æ¤­åå½¢" stroke="#FFFFFF" stroke-width="2" d="M13,24A11,11 0,1,1 35,24A11,11 0,1,1 13,24" class="IyMnCDtp_1"></path>
+            </g>
+        </g>
+    </g>
+<style data-made-with="vivus-instant">.IyMnCDtp_0{stroke-dasharray:151 153;stroke-dashoffset:152;animation:IyMnCDtp_draw_0 800ms ease-out 0ms infinite,IyMnCDtp_fade 800ms linear 0ms infinite;}.IyMnCDtp_1{stroke-dasharray:70 72;stroke-dashoffset:71;animation:IyMnCDtp_draw_1 800ms ease-out 0ms infinite,IyMnCDtp_fade 800ms linear 0ms infinite;}@keyframes IyMnCDtp_draw{100%{stroke-dashoffset:0;}}@keyframes IyMnCDtp_fade{0%{stroke-opacity:1;}100%{stroke-opacity:1;}100%{stroke-opacity:0;}}@keyframes IyMnCDtp_draw_0{0%{stroke-dashoffset: 152}100%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}@keyframes IyMnCDtp_draw_1{0%{stroke-dashoffset: 71}100%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}</style></svg>
