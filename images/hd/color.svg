@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="1200px" viewBox="0 0 1600 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>color</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1600" height="1200"></rect>
+        <rect id="path-3" x="1165" y="340" width="120" height="120" rx="60"></rect>
+        <filter x="-5.0%" y="-5.0%" width="115.0%" height="120.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="6" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="1165" y="540" width="120" height="120" rx="60"></rect>
+        <filter x="-5.0%" y="-5.0%" width="115.0%" height="120.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="6" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="1165" y="740" width="120" height="120" rx="60"></rect>
+        <filter x="-5.0%" y="-5.0%" width="115.0%" height="120.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="6" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="985" y="340" width="100" height="520" rx="20"></rect>
+        <filter x="-6.0%" y="-1.2%" width="118.0%" height="104.6%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="6" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="27.1070134%" y1="7.18822961%" x2="73.754719%" y2="91.8938236%" id="linearGradient-11">
+            <stop stop-color="#3DF7FF" offset="0%"></stop>
+            <stop stop-color="#4EFF5D" offset="51.2510557%"></stop>
+            <stop stop-color="#FFB90B" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-12" cx="600" cy="600" r="285"></circle>
+        <filter x="-1.4%" y="-1.4%" width="104.2%" height="105.6%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="8" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🎨--插画" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="color" transform="translate(0.000000, 0.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="蒙版" fill="#765EA9" xlink:href="#path-1"></use>
+            <rect id="蒙版" stroke="#000000" stroke-width="12" fill="#FFFFFF" x="106" y="106" width="1388" height="988" rx="48"></rect>
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <rect stroke="#000000" stroke-width="12" stroke-linejoin="square" fill="#706AFF" fill-rule="evenodd" x="1171" y="346" width="108" height="108" rx="54"></rect>
+            </g>
+            <g id="矩形备份-11">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <rect stroke="#000000" stroke-width="12" stroke-linejoin="square" fill="#765EA9" fill-rule="evenodd" x="1171" y="546" width="108" height="108" rx="54"></rect>
+            </g>
+            <g id="矩形备份-12">
+                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                <rect stroke="#000000" stroke-width="12" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="1171" y="746" width="108" height="108" rx="54"></rect>
+            </g>
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                <rect stroke="#000000" stroke-width="12" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="991" y="346" width="88" height="508" rx="20"></rect>
+            </g>
+            <path d="M1079,546 L991,546 L991,840 C991,843.865993 992.567003,847.365993 995.100505,849.899495 C997.634007,852.432997 1001.13401,854 1005,854 L1065,854 C1068.86599,854 1072.36599,852.432997 1074.89949,849.899495 C1077.433,847.365993 1079,843.865993 1079,840 L1079,546 Z" id="矩形" stroke="#000000" stroke-width="12" fill="#706AFF"></path>
+            <g id="椭圆形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                <circle stroke="#000000" stroke-width="12" stroke-linejoin="square" fill="url(#linearGradient-11)" fill-rule="evenodd" cx="600" cy="600" r="279"></circle>
+            </g>
+            <path d="M600,321 C529.107393,321 464.390142,347.440467 415.172377,390.998606 C420.173418,393.544367 427.600339,395.923719 436.416771,399.010025 C467.819508,410.002957 516.3495,427.179985 552.894251,472.139246 C576.725828,501.458096 595.548923,542.600169 601.05974,602.071651 C603.266538,663.350329 621.158967,709.497105 648.841204,743.527659 C680.880653,782.914656 725.918812,806.009125 774.280149,817.869756 C838.120224,766.748291 879,688.148487 879,600 C879,522.956277 847.771861,453.206277 797.282792,402.717208 C746.793723,352.228139 677.043723,321 600,321 Z" id="椭圆形" stroke="#000000" stroke-width="12" fill="#706AFF"></path>
+            <circle id="椭圆形" stroke="#000000" stroke-width="12" fill="#FFFFFF" cx="600" cy="600" r="24"></circle>
+        </g>
+    </g>
+</svg>

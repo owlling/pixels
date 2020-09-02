@@ -1,1 +1,79 @@
-<svg height="1200" viewBox="0 0 1200 1200" width="1200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path id="a" d="m0 0h1200v1200h-1200z"/><linearGradient id="b" x1="43.869154%" x2="55.869076%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff265"/><stop offset=".7965159" stop-color="#ffe431"/><stop offset="1" stop-color="#ffee87"/></linearGradient><mask id="c" fill="#fff"><use fill="#fff" fill-rule="evenodd" xlink:href="#a"/></mask></defs><g fill="none" fill-rule="evenodd"><use fill="#000" xlink:href="#a"/><g mask="url(#c)"><g transform="translate(390 362)"><path d="m131.688247 284.577136h302.666667v108.888889h-302.666667z" fill="#b620e0" fill-rule="evenodd" stroke="#fff" stroke-width="12" transform="matrix(.70710678 .70710678 -.70710678 .70710678 322.619561 -100.829357)"/><path d="m-2.311753 296.577136h278.666667v84.888889h-278.666667z" fill="#6236ff" fill-rule="evenodd" stroke="#fff" stroke-width="12" transform="matrix(.70710678 -.70710678 .70710678 .70710678 -199.591767 196.186011)"/><circle cx="210" cy="230" fill="url(#b)" fill-rule="evenodd" r="188" stroke="#fff" stroke-width="12"/><path d="m71 6h279v85h-279z" fill="#6dd400" fill-rule="evenodd" stroke="#fff" stroke-width="12"/><path d="m88.8888889 243.511392c6.0232308 60.463659 57.9203361 107.71083 121.0504691 107.71083 63.578116 0 115.763217-47.9201 121.171753-109" fill="none" stroke="#282028" stroke-linecap="round" stroke-width="4.844444"/><g fill-rule="evenodd"><rect fill="#282028" height="6.055556" rx="3.027778" transform="matrix(.98480775 .17364818 -.17364818 .98480775 50.510132 -32.326175)" width="24.222222" x="197.888889" y="269.475862"/><rect fill="#282028" height="6.055556" rx="3.027778" transform="matrix(.96592583 .25881905 -.25881905 .96592583 73.661545 -77.485483)" width="24.222222" x="319" y="237.986973"/><rect fill="#282028" height="6.055556" rx="3.027778" transform="matrix(.96592583 -.25881905 .25881905 .96592583 -59.350392 31.218516)" width="24.222222" x="76.777778" y="237.986973"/><rect fill="#282028" height="6.055556" rx="3.027778" transform="matrix(0 -1 1 0 -47.361111 467.361111)" width="36.333333" x="191.833333" y="254.333333"/><circle cx="161.555556" cy="198.622222" fill="#282028" r="16.955556"/><circle cx="258.444444" cy="198.622222" fill="#282028" r="16.955556"/></g></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="1200px" viewBox="0 0 1200 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>smile</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1200" height="1200"></rect>
+        <linearGradient x1="66.5909358%" y1="45.0302131%" x2="104.042671%" y2="57.3974497%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#EAEEF0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="32.40869%" y1="44.0546968%" x2="3.55271368e-13%" y2="55.9453032%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#EAEEF0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="43.8691538%" y1="0%" x2="55.8690755%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFF265" offset="0%"></stop>
+            <stop stop-color="#FFE431" offset="79.65159%"></stop>
+            <stop stop-color="#FFEE87" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#EAEEF0" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-7" cx="211" cy="230" r="194"></circle>
+        <filter x="-10.3%" y="-8.2%" width="120.6%" height="120.6%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-12.5%" y="-10.4%" width="125.0%" height="125.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="24" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-10">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F7F9FA" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-11" x="66" y="0" width="291" height="97"></rect>
+        <filter x="-22.0%" y="-57.7%" width="144.0%" height="232.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🎨--插画" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="smile">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="蒙版" fill="#000000" xlink:href="#path-1"></use>
+            <g id="编组" mask="url(#mask-2)">
+                <g transform="translate(389.000000, 362.000000)">
+                    <rect id="矩形" stroke="url(#linearGradient-3)" stroke-width="12" fill="#B620E0" fill-rule="evenodd" transform="translate(283.688247, 340.577136) rotate(45.000000) translate(-283.688247, -340.577136) " x="138.688247" y="290.577136" width="290" height="100"></rect>
+                    <rect id="矩形备份-4" stroke="url(#linearGradient-4)" stroke-width="12" fill="#6236FF" fill-rule="evenodd" transform="translate(137.885822, 340.577136) rotate(-45.000000) translate(-137.885822, -340.577136) " x="-7.11417767" y="290.577136" width="290" height="100"></rect>
+                    <g id="椭圆形" stroke="none" fill="none">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-7"></use>
+                        <circle stroke="url(#linearGradient-6)" stroke-width="12" stroke-linejoin="square" cx="211" cy="230" r="188"></circle>
+                    </g>
+                    <g id="矩形备份-5" stroke="none" fill="none">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                        <rect stroke="url(#linearGradient-10)" stroke-width="12" stroke-linejoin="square" fill="#6DD400" fill-rule="evenodd" x="72" y="6" width="279" height="85"></rect>
+                    </g>
+                    <path d="M89.8888889,243.511392 C95.9121197,303.975051 147.809225,351.222222 210.939358,351.222222 C274.517474,351.222222 326.702575,303.302122 332.111111,242.222222" id="路径" stroke="#282028" stroke-width="6" fill="none" stroke-linecap="round"></path>
+                    <rect id="矩形" stroke="none" fill="#282028" fill-rule="evenodd" transform="translate(210.888889, 272.475862) rotate(10.000000) translate(-210.888889, -272.475862) " x="198.888889" y="269.475862" width="24" height="6" rx="3"></rect>
+                    <rect id="矩形备份-2" stroke="none" fill="#282028" fill-rule="evenodd" transform="translate(332.367567, 241.003606) rotate(15.000000) translate(-332.367567, -241.003606) " x="320.367567" y="238.003606" width="24" height="6" rx="3"></rect>
+                    <rect id="矩形备份-3" stroke="none" fill="#282028" fill-rule="evenodd" transform="translate(89.367567, 241.003606) rotate(-15.000000) translate(-89.367567, -241.003606) " x="77.3675671" y="238.003606" width="24" height="6" rx="3"></rect>
+                    <rect id="矩形备份" stroke="none" fill="#282028" fill-rule="evenodd" transform="translate(210.861111, 257.138889) rotate(-90.000000) translate(-210.861111, -257.138889) " x="192.861111" y="254.138889" width="36" height="6" rx="3"></rect>
+                    <circle id="椭圆形" stroke="none" fill="#282028" fill-rule="evenodd" cx="162.555556" cy="198.622222" r="16.9555556"></circle>
+                    <circle id="椭圆形备份" stroke="none" fill="#282028" fill-rule="evenodd" cx="259.444444" cy="198.622222" r="16.9555556"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
